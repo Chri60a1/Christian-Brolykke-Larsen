@@ -28,3 +28,5 @@ Christianlarsen26@gmail.com
 **Current project:**
 
 We are working with Innopixel to create the worlds first AR driven art app. The goal is to create cities full of exciting and creative art. This application will furthermore focus on selling and buying the art which will work as NFT´s. 
+
+Today on the 7th of february 2022 i had my first guild meeting. This guild specialises project management. The meeting went extremely well. We had a lot of different key insights to what this subject intails, as well as good discussions about how we create the best possible working environment for our group. All in all a positive experience.
